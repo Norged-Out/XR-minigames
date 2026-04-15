@@ -2,7 +2,7 @@
 
 You can use the published release if you want a ready-made headset build instead of compiling the project yourself.
 
-The build is accessible in the builds folder.
+The release build is also accessible in the builds folder.
 
 ## Requirements for Running the build
 
