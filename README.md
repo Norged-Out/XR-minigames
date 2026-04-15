@@ -4,6 +4,8 @@ You can use the published release if you want a ready-made headset build instead
 
 The release build is also accessible in the builds folder.
 
+You can also obtain it from our itch.ionpage: https://norgedout.itch.io/vr-carnival-minigames
+
 ## Requirements for Running the build
 
 - Have an app such as SideQuest, to install the application on the **Quest 3**
